@@ -1,0 +1,11 @@
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\bin\Debug\Benzin istasyonu.exe.config
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\bin\Debug\Benzin istasyonu.exe
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\bin\Debug\Benzin istasyonu.pdb
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.csproj.AssemblyReference.cache
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin_istasyonu.Form1.resources
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin_istasyonu.Properties.Resources.resources
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.csproj.GenerateResource.cache
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.exe
+C:\Users\Safranbolu78\Desktop\Benzin istasyonu\Benzin istasyonu\obj\Debug\Benzin istasyonu.pdb
